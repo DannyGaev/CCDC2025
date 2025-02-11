@@ -14,5 +14,3 @@ The output will look something like this:
    oaktree    !e&mh5k^r!2ns*ze
    new_user   er71qcacx78z!99a
 ```
-
-*The file gen_and_update.sh helps with updating passwords*
