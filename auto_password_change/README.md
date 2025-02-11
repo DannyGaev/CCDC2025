@@ -12,7 +12,7 @@ The output will look something like this:
    root       qqh9f^3&0z@mga7k
    nobody     gm*kdajj0k!v709m
    oaktree    !e&mh5k^r!2ns*ze
-   new_user   er7#qcacx78z!99a
+   new_user   er71qcacx78z!99a
 ```
 
 *The file gen_and_update.sh helps with updating passwords*
