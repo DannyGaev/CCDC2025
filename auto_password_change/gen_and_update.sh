@@ -13,8 +13,11 @@ do
 	counter=$(( $counter + 1 ))
 done
 
-echo "...setting password for $1 to ${password}"
 # Set the passwords for the user passed into the script
 echo "${password}
-${password}" | sudo passwd $1
-
+${password}" | sudo passwd $1 &>/dev/null
+if [ $? -eq 0 ]; then
+	echo "$1"$'\t'"${password}"
+else
+	echo "Failed to update password for $1"
+fi
