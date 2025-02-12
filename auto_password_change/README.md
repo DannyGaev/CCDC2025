@@ -21,3 +21,9 @@ The output will look something like this:
    oaktree    !e&mh5k^r!2ns*ze
    new_user   er71qcacx78z!99a
 ```
+
+**If unable to use git for download, try wget:**
+```console
+   oaktree@OakTree:~/$ wget https://github.com/DannyGaev/CCDC2025/edit/main/auto_password_change/change_user_passwds.sh
+   oaktree@OakTree:~/$ wget https://github.com/DannyGaev/CCDC2025/edit/main/auto_password_change/gen_and_update.sh
+```
