@@ -3,8 +3,12 @@
 $characters="abcdefghijklmnopqrstuvwxyz0123456789#$&*!@"
 
 Write-Host "Resetting user account passwords...`n"
+
+# Parse through all users on the systenm
 Get-LocalUser | 
     ForEach-Object  { 
+
+        # Only change passwords for users with RID greater than or equal to 1000 and whose name is not 'promon'
         if ([int]($_.SID -split "-")[-1] -ge 1000 -and $_.Name -ne "promon") 
         {
             $UnsecureNewPassword = ""
