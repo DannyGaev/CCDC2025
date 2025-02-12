@@ -3,13 +3,13 @@
 
 Command to change passwords:   
 
-```console
+```powershell
    PS C:\Users\{USER}\Desktop\CCDC2025\auto_password_change\windows> change_user_passwds.ps1
 ```
 
 The output will look something like this:
 
-```console
+```powershell
    PS C:\Users\{USER}\Desktop\CCDC2025\auto_password_change\windows> change_user_passwds.ps1
    Resetting user account passwords...
 
@@ -17,6 +17,6 @@ The output will look something like this:
 ```
 
 **If unable to use git for download, try wget:**
-```console
+```powershell
    oaktree@OakTree:~/$ wget https://raw.githubusercontent.com/DannyGaev/CCDC2025/refs/heads/main/auto_password_change/windows/change_user_passwds.ps1
 ```
