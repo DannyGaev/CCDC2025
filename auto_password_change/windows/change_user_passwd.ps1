@@ -5,7 +5,7 @@ $characters="abcdefghijklmnopqrstuvwxyz0123456789#$&*!@"
 Write-Host "Resetting user account passwords...`n"
 Get-LocalUser | 
     ForEach-Object  { 
-        if ([int]($_.SID -split "-")[-1] -ge 1000 -and $_.Name -ne "danny" -and $_.Name -ne "WsiAccount" -and $_.Name -ne "promon") 
+        if ([int]($_.SID -split "-")[-1] -ge 1000 -and $_.Name -ne "promon") 
         {
             $UnsecureNewPassword = ""
             $val=0
