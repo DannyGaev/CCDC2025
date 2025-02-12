@@ -18,6 +18,5 @@ The output will look something like this:
 
 **If unable to use git for download, try wget:**
 ```console
-   oaktree@OakTree:~/$ wget https://raw.githubusercontent.com/DannyGaev/CCDC2025/refs/heads/main/auto_password_change/windows/change_user_passwds.sh
-   oaktree@OakTree:~/$ wget https://raw.githubusercontent.com/DannyGaev/CCDC2025/refs/heads/main/auto_password_change/windows/gen_and_update.sh
+   oaktree@OakTree:~/$ wget https://raw.githubusercontent.com/DannyGaev/CCDC2025/refs/heads/main/auto_password_change/windows/change_user_passwds.ps1
 ```
