@@ -1,7 +1,7 @@
 # CCDC2025
 Repository of tools used by Loyola University Chicago's team during the Midwest Regional Collegiate Cyber Defense Competition
 
-# Using the Repo:
+# Navigating the Repo:
 &nbsp;
 &nbsp;
 ## BLUESPAWN
