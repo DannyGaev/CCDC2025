@@ -1,9 +1,12 @@
 # CCDC2025
 Repository of tools used by Loyola University Chicago's team during the Midwest Regional Collegiate Cyber Defense Competition
 
+<br>
+
 # Navigating the Repo:
-&nbsp;
-&nbsp;
+<br>
+
+
 ## BLUESPAWN
 ### Endpoint detection and response
 * An endpoint detection and response model for Windows machines.
@@ -32,6 +35,8 @@ Repository of tools used by Loyola University Chicago's team during the Midwest 
 ### Windows Privilege Escalation Awesome Script
 * "WinPEAS is a script that search for possible paths to escalate privileges on Windows hosts." (Source: https://github.com/peass-ng/PEASS-ng/blob/master/winPEAS/winPEASexe/README.md)
 
-&nbsp;
-&nbsp;
+
+<br>
+<br>
+
 *For generally good tips on CCDC, this BlueTeam Manual Repository was very helpful: https://github.com/C0nd4/CCDC-Blueteam-Manual*
