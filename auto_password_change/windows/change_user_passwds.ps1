@@ -9,7 +9,7 @@ Get-LocalUser |
     ForEach-Object  { 
 
         # Only change passwords for users with RID greater than or equal to 1000 and whose name is not 'promon'
-        if ([int]($_.SID -split "-")[-1] -ge 1000 -and $_.Name -ne "promon") 
+        if ([int]($_.SID -split "-")[-1] -ge 500 -and $_.Name -ne "WDAGUtiliyAccount") 
         {
             $UnsecureNewPassword = ""
             $val=0
