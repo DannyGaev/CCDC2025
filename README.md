@@ -14,7 +14,7 @@ Repository of tools used by Loyola University Chicago's team during the Midwest 
 
 ## common_files
 ### Clear up suspicion or confusion on whether a file is meant to belong on a system
-* Contains two folders (Linux and Windows) as well a script to help you determine if the suspiciously named (Windows 👀) file you're looking at is expected to be on its respective system. Directions on how to use the script are included in the folder's README.md
+* Contains two folders (Linux and Windows) as well a script to help you determine if the suspiciously named (likely Windows 👀) file you're looking at is expected to be on its respective system. Directions on how to use the script are included in the folder's README.md
 
 ## linPEAS
 ### Linux Privilege Escalation Awesome Script
