@@ -2,7 +2,8 @@
 Repository of tools used by Loyola University Chicago's team during the Midwest Regional Collegiate Cyber Defense Competition
 
 # Usage
-
+&nbsp;
+&nbsp;
 ## BLUESPAWN
 ### Endpoint detection and response
 * An endpoint detection and response model for Windows machines.
