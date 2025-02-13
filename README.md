@@ -7,7 +7,7 @@ Repository of tools used by Loyola University Chicago's team during the Midwest 
 <br>
 
 
-## <span style="color:lightblue"> BLUESPAWN </span>
+## <code style="color: lightskyblue">BLUESPAWN </code>
 ### Endpoint detection and response
 * An endpoint detection and response model for Windows machines.
 
