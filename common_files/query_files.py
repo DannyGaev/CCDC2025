@@ -46,5 +46,3 @@ if operating_system=="1":
         print("\n[!] WARNING: FILE/FOLDER IS NOT EXPECTED TO APPEAR ON EITHER GENERAL OR CCDC INSTALLATIONS OF WINDOWS, AND IS MORE LIKELY TO BE MALICIOUS.")
     
     os.chdir(top_dir)
-
-    
