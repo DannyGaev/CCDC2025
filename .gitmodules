@@ -1,0 +1,3 @@
+[submodule "BLUESPAWN"]
+	path = BLUESPAWN
+	url = https://github.com/ION28/BLUESPAWN.git
